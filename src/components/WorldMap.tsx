@@ -23,7 +23,7 @@ const StyledDiv2 = styled.div`
 const StyledInput = styled.input`
     margin: 10px 0;
     width: 15vw;
-    height: 2vw;
+    height: 35px;
     border-radius: 20px;
     border: 2px solid #3c934ae0;
     padding: 0 2%;
@@ -36,7 +36,7 @@ const StyledInput = styled.input`
 
 const StyledButton = styled.button`
     width: 10vw;
-    height: 2vw;
+    height: 35px;
     border-radius: 20px;
     background-color: #3c934ae0;
     border:none;
