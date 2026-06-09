@@ -42,7 +42,7 @@ export default function GlobeMap(props:{userLat:number, userLng:number}){
                 { type: "city", lat: -41.2865, lng: 174.7762, name: "Wellington" },
                 { type: "city", lat: -33.8688, lng: 151.2093, name: "Sydney" },
                 { type: "city", lat: 1.3521, lng: 103.8198, name: "Singapore" },            
-                {type :"city", lat: 35.6762, lng: 139.6503, name: "Tokyo"},
+                { type:"city", lat: 35.6762, lng: 139.6503, name: "Tokyo"},
                 { type: "city", lat: 39.9042, lng: 116.4074, name: "Beijing" },
                 { type: "city", lat: 28.6139, lng: 77.2090, name: "New Delhi" },
                 { type: "city", lat: 55.7558, lng: 37.6173, name: "Moscow" },

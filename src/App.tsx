@@ -17,6 +17,10 @@ const HeaderNav = styled.nav`
   align-items: center;
   list-style: none;
   padding: 10px 0;
+
+  @media screen and (max-width: 750px){
+    grid-template-columns: auto;
+  }
 `;
 const StyledMain = styled.main`
   background: linear-gradient(
@@ -34,10 +38,16 @@ const StyledImg = styled.img`
 const StyledH1 = styled.h1`
   margin: auto 1%;
   min-width: fit-content;
+  font-size: calc(2px + 2vw);
 `;
 const LiLeft = styled.li`
   justify-self: start;
   margin-left: 10%;
+
+  @media screen and (max-width: 750px){
+    justify-self: center;
+    margin: 0;
+  }
 `;
 const LiCenter = styled.li`
   justify-self: center;
@@ -45,6 +55,11 @@ const LiCenter = styled.li`
 const LiRight = styled.li`
   justify-self: end;
   margin-right: 10%;
+
+  @media screen and (max-width: 750px){
+    justify-self: center;
+    margin: 0;
+  }
 `;
 const StyledLink = styled(Link)`
   text-decoration: none;

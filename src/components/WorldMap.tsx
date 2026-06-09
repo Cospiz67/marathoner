@@ -25,12 +25,12 @@ const StyledInput = styled.input`
     width: 15vw;
     height: 2vw;
     border-radius: 20px;
-    border: 2px solid #E0B24A;
+    border: 2px solid #3c934ae0;
     padding: 0 2%;
     
     &:focus{
-        outline: #3c934ae0;
-        border-color: #3c934ae0;
+        outline: #E0B24A;
+        border-color:  #E0B24A;
     }
 `;
 
@@ -38,13 +38,13 @@ const StyledButton = styled.button`
     width: 10vw;
     height: 2vw;
     border-radius: 20px;
-    background-color: rgb(224, 178, 74);
+    background-color: #3c934ae0;
     border:none;
     font-size: calc( 2px + 1vw);
     margin-bottom: 10px;
 
     &:hover{
-        background-color: #3c934ae0;
+        background-color: rgb(224, 178, 74);
         cursor: pointer;
     }
     &:disabled{

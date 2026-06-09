@@ -22,7 +22,7 @@ const StyledBar = styled.div`
 
 const StyledProgress = styled.div<{ height: number}>`
     width: 100%;
-    background-color: #3b82f6;
+    background-color: #3c934ae0;
     height: ${props => `${props.height}%`};
     transition: height 0.3s ease;
 

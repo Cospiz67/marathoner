@@ -7,6 +7,10 @@ const Grid = styled.div`
     gap: 30px;
     padding: 20px;
     justify-items: center;
+
+    @media screen and (max-width: 750px){
+        grid-template-columns: auto;
+    }
 `;
 
 const Card = styled.div<{visited:boolean}>`
