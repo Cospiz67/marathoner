@@ -59,7 +59,7 @@ export default function Why(){
                 <br/>
                 <br/>
                 That is why <b>Marathoner</b> was created. This web application encourages people
-                to do sports and stay active though running or walking, while also providing
+                to do sports and stay active through running or walking, while also providing
                 a gamified and cultural experience.
                 <br/>
                 <br/>
