@@ -58,7 +58,7 @@ export default function Why(){
                 social medias contribute to making people more and more inactive.
                 <br/>
                 <br/>
-                That is why "Marathoner" was created. This web application encourages people
+                That is why <b>Marathoner</b> was created. This web application encourages people
                 to do sports and stay active though running or walking, while also providing
                 a gamified and cultural experience.
                 <br/>
@@ -67,7 +67,7 @@ export default function Why(){
                 for the day, and their progress is transformed into an avatar that travels 
                 between real cities. It turns physical activities into a beautiful journey 
                 all around the world. When a city is reached, the user earns a badge, 
-                which is displayed in the <StyledLink to="/achievements">“Achievements”</StyledLink>
+                which is displayed in the <StyledLink to="/achievements">“Achievements” </StyledLink>
                  section.
                 <br/>
                 <br/>
