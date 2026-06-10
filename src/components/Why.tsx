@@ -68,7 +68,7 @@ export default function Why(){
                 between real cities. It turns physical activities into a beautiful journey 
                 all around the world. When a city is reached, the user earns a badge, 
                 which is displayed in the <StyledLink to="/achievements">“Achievements”</StyledLink>
-                section.
+                 section.
                 <br/>
                 <br/>
                 So, are you ready to walk the world?
